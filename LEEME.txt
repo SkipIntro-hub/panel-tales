@@ -1,0 +1,21 @@
+PANEL TALES WORLD — instrucciones de instalación
+=================================================
+
+1. COPIÁ el archivo pt-truck-full.glb a ESTA carpeta
+   (lo tenés en tu proyecto antigravity en la Mac)
+
+2. ABRÍ terminal en esta carpeta y ejecutá:
+   python3 -m http.server 8080
+
+3. ABRÍ en el browser:
+   http://localhost:8080
+
+Estructura final de la carpeta:
+  panel-tales-world/
+  ├── index.html
+  ├── pt-truck-full.glb        ← VOS LO COPIÁS
+  ├── ground_road_texture.png
+  ├── correo_rural_bg.png
+  ├── panaderia_bg.png
+  └── libreria_de_ruta_bg.png
+
